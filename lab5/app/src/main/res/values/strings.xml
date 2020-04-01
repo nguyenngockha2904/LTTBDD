@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="title">Cộng trừ nhân chia</string>
+    <string name="soa">Số a</string>
+    <string name="txtSoAHint">nhập số a</string>
+    <string name="txtSoBHint">nhập số b</string>
+</resources>
