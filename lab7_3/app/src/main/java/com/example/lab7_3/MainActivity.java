@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
                     //giá trị từ InputDataActivity
                     int v2=intent.getIntExtra("data",0);
                     arrData.add(v2);
+
                     adapter.notifyDataSetChanged();
                     break;
                 }
