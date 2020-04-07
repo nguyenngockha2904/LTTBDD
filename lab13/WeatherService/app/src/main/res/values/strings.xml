@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherService</string>
+    <string name="weather"><![CDATA[<Weather>]]></string>
+</resources>
